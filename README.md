@@ -15,6 +15,7 @@ Foi desenvolvido uma interface gráfica para consumir a api do github.
   - css-minimizer-webpack-plugin
   - mini-css-extract-plugin
 - react
+- react-dom
 - react-router-dom
 - axios
 - protoTypes
