@@ -32,8 +32,13 @@ Ambiente de desenvolvimento:
 ```
 yarn dev
 ```
+Para fazer o build do projeto para produção
+```
+yarn build
+```
+
 Ambiente de produçao:
 
 ```
-yarn build
+yarn start
 ```
