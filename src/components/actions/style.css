@@ -1,0 +1,21 @@
+.actions {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.actions__btn {
+  background: #2ea44f;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 10px 20px;
+  margin-right: 10px;
+  border-radius: 7px;
+  border: 2px solid transparent;
+}
+
+.actions__btn:hover {
+  background: #fff;
+  color: #2ea44f;
+  border: 2px solid #2ea44f;
+}

@@ -1,0 +1,26 @@
+.userInfo {
+  display: flex;
+  margin-bottom: 20px;
+  background: #fff;
+}
+
+.userInfo__header {
+  margin-left: 20px;
+}
+
+.userInfo__img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.userInfo__name {
+  font-size: 40px;
+  color: #000;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.repos-info {
+  font-size: 18px;
+}
