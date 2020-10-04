@@ -3,7 +3,7 @@
 ### Projeto:
 Foi desenvolvido uma interface gráfica para consumir a api do github.
 
-### tecnologias utilizadas
+### tecnologias utilizadas:
 - yarn
 - Webpack
   - file-loader
@@ -21,24 +21,24 @@ Foi desenvolvido uma interface gráfica para consumir a api do github.
 - protoTypes
 
 
-### Comandos
+### Comandos:
 
-Fazer o download dos pacotes pelo yarn:
+Fazer o download dos pacotes:
 ```
-yarn
+yarn ou npm i
 ```
 
 Ambiente de desenvolvimento:
 ```
-yarn dev
+yarn dev npm run dev
 ```
 Para fazer o build do projeto para produção
 ```
-yarn build
+yarn build ou npm run build
 ```
 
 Ambiente de produçao:
 
 ```
-yarn start
+yarn start ou npm run start
 ```
